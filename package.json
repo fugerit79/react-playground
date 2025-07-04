@@ -1,0 +1,17 @@
+{
+  "name": "react-playground",
+  "version": "1.0.0",
+  "description": "My react playground",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@react-pdf/renderer": "^4.3.0",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  }
+}
